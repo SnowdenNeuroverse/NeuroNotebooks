@@ -14,3 +14,10 @@ To load the NotebookAdminCommands.ipynb notebook found in the Admin folder of th
     - NeuroJulia.get_notebook("NotebookAdminCommands")
 
 This function will load the NotebookAdminCommands.ipynb notebook into a folder called "00_NeuroTemplates" and add the current DateTime to the name.
+
+## Available Notebooks
+### NotebookAdminCommands
+The notebook shows how to see what Notebook sessions are active in your tenant and the user that they belong to.
+
+### SchemaManagerCommands
+This notebook shows how to deploy create a new schema for a db table and deploy it in Neuroverse
