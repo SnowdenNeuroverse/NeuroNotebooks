@@ -16,9 +16,8 @@ To load the NotebookAdminCommands.ipynb notebook found in this repository.
 This function will load the NotebookAdminCommands.ipynb notebook into a folder called "00_NeuroTemplates" and add the current DateTime to the name.
 
 ## Available Notebooks
-### NotebookAdminCommands [NotebookAdminCommands](https://github.com/SnowdenNeuroverse/NeuroNotebooks/blob/master/Notebooks/NotebookAdminCommands.ipynb)
+### [NotebookAdminCommands](https://github.com/SnowdenNeuroverse/NeuroNotebooks/blob/master/Notebooks/NotebookAdminCommands.ipynb)
 The notebook shows how to see what Notebook sessions are active in your tenant and the user that they belong to.
 
-### SchemaManagerCommands
+### [SchemaManagerCommands](https://github.com/SnowdenNeuroverse/NeuroNotebooks/blob/master/Notebooks/SchemaManagerCommands.ipynb)
 This notebook shows how to deploy create a new schema for a db table and deploy it in Neuroverse
-Link: [SchemaManagerCommands](https://github.com/SnowdenNeuroverse/NeuroNotebooks/blob/master/Notebooks/SchemaManagerCommands.ipynb)
