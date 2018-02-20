@@ -18,7 +18,8 @@ This function will load the NotebookAdminCommands.ipynb notebook into a folder c
 ## Available Notebooks
 ### NotebookAdminCommands
 The notebook shows how to see what Notebook sessions are active in your tenant and the user that they belong to.
-[NotebookAdminCommands](https://github.com/SnowdenNeuroverse/NeuroNotebooks/blob/master/Notebooks/NotebookAdminCommands.ipynb)
+Link:[NotebookAdminCommands](https://github.com/SnowdenNeuroverse/NeuroNotebooks/blob/master/Notebooks/NotebookAdminCommands.ipynb)
 
 ### SchemaManagerCommands
 This notebook shows how to deploy create a new schema for a db table and deploy it in Neuroverse
+Link:[SchemaManagerCommands](https://github.com/SnowdenNeuroverse/NeuroNotebooks/blob/master/Notebooks/SchemaManagerCommands.ipynb)
