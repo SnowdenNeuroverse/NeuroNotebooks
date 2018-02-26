@@ -19,10 +19,10 @@ This function will load the NotebookAdminCommands.ipynb notebook into a folder c
 ### [jl_NotebookAdminCommands](https://github.com/SnowdenNeuroverse/NeuroNotebooks/blob/master/Notebooks/jl_NotebookAdminCommands.ipynb)
 The notebook shows how to see what Notebook sessions are active in your tenant and the user that they belong to.
 
-### SchemaManagerCommands [(Julia)](https://github.com/SnowdenNeuroverse/NeuroNotebooks/blob/master/Notebooks/jl_SchemaManagerCommands.ipynb)
+### [jl_SchemaManagerCommands](https://github.com/SnowdenNeuroverse/NeuroNotebooks/blob/master/Notebooks/jl_SchemaManagerCommands.ipynb)
 This notebook shows how to deploy create a new schema for a db table and deploy it in Neuroverse
 
-### AccessDataFromNeuroSql [(Julia)](https://github.com/SnowdenNeuroverse/NeuroNotebooks/blob/master/Notebooks/jl_AccessDataFromNeuroSql.ipynb) [(Python)](https://github.com/SnowdenNeuroverse/NeuroNotebooks/blob/master/Notebooks/py_AccessDataFromNeuroSql.ipynb)
+### [jl_AccessDataFromNeuroSql](https://github.com/SnowdenNeuroverse/NeuroNotebooks/blob/master/Notebooks/jl_AccessDataFromNeuroSql.ipynb)
 This notebook shows how to access Neuroverse sql data in a Notebook
 
 ## Available Python Notebooks:
