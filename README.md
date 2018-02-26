@@ -26,8 +26,8 @@ This notebook shows how to deploy create a new schema for a db table and deploy 
 
 ### AccessDataFromNeuroSql
 This notebook shows how to access Neuroverse sql data in a Notebook
-[jl_AccessDataFromNeuroSql](https://github.com/SnowdenNeuroverse/NeuroNotebooks/blob/master/Notebooks/jl_AccessDataFromNeuroSql.ipynb)
-[py_AccessDataFromNeuroSql](https://github.com/SnowdenNeuroverse/NeuroNotebooks/blob/master/Notebooks/py_AccessDataFromNeuroSql.ipynb)
+ - [jl_AccessDataFromNeuroSql](https://github.com/SnowdenNeuroverse/NeuroNotebooks/blob/master/Notebooks/jl_AccessDataFromNeuroSql.ipynb)
+ - [py_AccessDataFromNeuroSql](https://github.com/SnowdenNeuroverse/NeuroNotebooks/blob/master/Notebooks/py_AccessDataFromNeuroSql.ipynb)
 
 # Tutorials
 ## Available Julia Notebooks:
