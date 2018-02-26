@@ -11,9 +11,9 @@ To load the NotebookAdminCommands.ipynb notebook found in this repository.
   - run the following code
     - Pkg.clone("https://github.com/SnowdenNeuroverse/NeuroJulia.git") #This only needs to be run once in a session
     - using NeuroJulia
-    - NeuroJulia.get_notebook("NotebookAdminCommands")
+    - NeuroJulia.get_notebook("jl_NotebookAdminCommands")
 
-This function will load the NotebookAdminCommands.ipynb notebook into a folder called "00_NeuroTemplates" and add the current DateTime to the name.
+This function will load the jl_NotebookAdminCommands.ipynb notebook into a folder called "00_NeuroTemplates" and add the current DateTime to the name.
 
 # Basic Commands
 ### NotebookAdminCommands
