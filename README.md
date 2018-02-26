@@ -16,19 +16,18 @@ To load the NotebookAdminCommands.ipynb notebook found in this repository.
 This function will load the NotebookAdminCommands.ipynb notebook into a folder called "00_NeuroTemplates" and add the current DateTime to the name.
 
 # Basic Commands
-## Available Julia Notebooks:
-### [jl_NotebookAdminCommands](https://github.com/SnowdenNeuroverse/NeuroNotebooks/blob/master/Notebooks/jl_NotebookAdminCommands.ipynb)
+### NotebookAdminCommands
 The notebook shows how to see what Notebook sessions are active in your tenant and the user that they belong to.
+[jl_NotebookAdminCommands](https://github.com/SnowdenNeuroverse/NeuroNotebooks/blob/master/Notebooks/jl_NotebookAdminCommands.ipynb)
 
-### [jl_SchemaManagerCommands](https://github.com/SnowdenNeuroverse/NeuroNotebooks/blob/master/Notebooks/jl_SchemaManagerCommands.ipynb)
+### SchemaManagerCommands
 This notebook shows how to deploy create a new schema for a db table and deploy it in Neuroverse
+[jl_SchemaManagerCommands](https://github.com/SnowdenNeuroverse/NeuroNotebooks/blob/master/Notebooks/jl_SchemaManagerCommands.ipynb)
 
-### [jl_AccessDataFromNeuroSql](https://github.com/SnowdenNeuroverse/NeuroNotebooks/blob/master/Notebooks/jl_AccessDataFromNeuroSql.ipynb)
+### AccessDataFromNeuroSql
 This notebook shows how to access Neuroverse sql data in a Notebook
-
-## Available Python Notebooks:
-### [py_AccessDataFromNeuroSql](https://github.com/SnowdenNeuroverse/NeuroNotebooks/blob/master/Notebooks/py_AccessDataFromNeuroSql.ipynb)
-This notebook shows how to access Neuroverse sql data in a Notebook
+[jl_AccessDataFromNeuroSql](https://github.com/SnowdenNeuroverse/NeuroNotebooks/blob/master/Notebooks/jl_AccessDataFromNeuroSql.ipynb)
+[py_AccessDataFromNeuroSql](https://github.com/SnowdenNeuroverse/NeuroNotebooks/blob/master/Notebooks/py_AccessDataFromNeuroSql.ipynb)
 
 # Tutorials
 ## Available Julia Notebooks:
