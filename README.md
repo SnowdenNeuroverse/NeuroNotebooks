@@ -30,6 +30,3 @@ This notebook shows how to access Neuroverse sql data in a Notebook
  - [py_AccessDataFromNeuroSql](https://github.com/SnowdenNeuroverse/NeuroNotebooks/blob/master/Notebooks/py_AccessDataFromNeuroSql.ipynb)
 
 # Tutorials
-## Available Julia Notebooks:
-
-## Available Python Notebooks:
