@@ -30,3 +30,6 @@ This notebook shows how to access Neuroverse sql data in a Notebook
  - [py_AccessDataFromNeuroSql](https://github.com/SnowdenNeuroverse/NeuroNotebooks/blob/master/Notebooks/py_AccessDataFromNeuroSql.ipynb)
 
 # Tutorials
+### IotSetupAndQueryTutorial
+This tutorial runs through connecting up a virtual fridge and it's sensors to Neuroverse and reviewing the results in a Notebook
+ - [jl_IotSetupAndQueryTutorial]( https://github.com/SnowdenNeuroverse/NeuroNotebooks/blob/master/Notebooks/jl_IotSetupAndQueryTutorial.ipynb)
