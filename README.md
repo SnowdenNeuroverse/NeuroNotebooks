@@ -9,7 +9,6 @@ To load the NotebookAdminCommands.ipynb notebook found in this repository.
 
   - open a Julia Notebook in your Neuroverse Notebooks session
   - run the following code
-    - Pkg.clone("https://github.com/SnowdenNeuroverse/NeuroJulia.git") #This only needs to be run once in a session
     - using NeuroJulia
     - NeuroJulia.get_notebook("jl_NotebookAdminCommands")
 
