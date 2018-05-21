@@ -16,7 +16,7 @@ This function will load the jl_NotebookAdminCommands.ipynb notebook into a folde
 
 # Basic Commands
 ### NotebookAdminCommands
-The notebook shows how to see what Notebook sessions are active in your tenant and the user that they belong to.
+This notebook shows how to see what Notebook sessions are active in your tenant and the user that they belong to.
  - [jl_NotebookAdminCommands](https://github.com/SnowdenNeuroverse/NeuroNotebooks/blob/master/Notebooks/jl_NotebookAdminCommands.ipynb)
 
 ### SchemaManagerCommands
@@ -27,3 +27,8 @@ This notebook shows how to deploy create a new schema for a db table and deploy 
 This notebook shows how to access Neuroverse sql data in a Notebook
  - [jl_AccessDataFromNeuroSql](https://github.com/SnowdenNeuroverse/NeuroNotebooks/blob/master/Notebooks/jl_AccessDataFromNeuroSql.ipynb)
  - [py_AccessDataFromNeuroSql](https://github.com/SnowdenNeuroverse/NeuroNotebooks/blob/master/Notebooks/py_AccessDataFromNeuroSql.ipynb)
+
+# Helper Notebooks
+### Endpoint Log Query
+This notebook shows how to query the logs of a Neurovese Endpoint
+ - [jl_EndpointLogQuery](https://github.com/SnowdenNeuroverse/NeuroNotebooks/blob/master/Notebooks/jl_EndpointLogQuery.ipynb)
